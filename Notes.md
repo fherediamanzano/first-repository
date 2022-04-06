@@ -1,36 +1,33 @@
 # Here you can find some notes from videos on YT
 ##  Alberto Vignoni on YT
 
-### Vos estás buscando un TÍTULO UNIVERSIITARIO? ATENCIÓN
+### [Vos estás buscando un TÍTULO UNIVERSIITARIO? ATENCIÓN](https://www.youtube.com/watch?v=hsSjKl-ogFM)
 
-Sufrir bien
-Después del título, ahí recien empieza el aprendizaje
-Gente de negocios, hace deporte haciendo guita. Les gusta, les apasiona
-Lo que logra, lo logra con satisfacción
-Amo lo que hago, por eso lo hago todo el tiempo
-Se mezcla el tiempo libre y el tiempo de trabajo
-
-Dicotomía, hacer algo que no te gusta, para obtener algo que te gusta
-
-No permitas que una dicotomía gobierne tu vida
-Dicotomía; hacer algo que odias para obtener placer en tu tiempo libre
-Ahí se huye constantemente de la vida que odia, para tener ese tiempo libre
-
-Busca una situación en la que tu trabajo te dé tanta felicidad como tu tiempo libre
-
-En lugar de esperar tus proximas vacaciones, elije tener una vida de la que no tengas que escapar
-
-Amar la rutina que haces por ese logro
-Pirámide de Maslow
-
+Sufrir bien <br>
+Después del título, ahí recien empieza el aprendizaje <br>
+Gente de negocios, hace deporte haciendo guita. Les gusta, les apasiona<br>
+Lo que logra, lo logra con satisfacción<br>
+Amo lo que hago, por eso lo hago todo el tiempo<br>
+Se mezcla el tiempo libre y el tiempo de trabajo<br>
+Dicotomía, hacer algo que no te gusta, para obtener algo que te gusta<br>
+No permitas que una dicotomía gobierne tu vida<br>
+Dicotomía; hacer algo que odias para obtener placer en tu tiempo libre<br>
+Ahí se huye constantemente de la vida que odia, para tener ese tiempo libre<br>
+Busca una situación en la que tu trabajo te dé tanta felicidad como tu tiempo libre<br>
+En lugar de esperar tus proximas vacaciones, elije tener una vida de la que no tengas que escapar<br>
+Amar la rutina que haces por ese logro<br>
+Pirámide de Maslow<br>
 Formas mejorar
-	1. Guiar a gente de menor capacidad
-	2. Rodearte de pares
-	3. Rodearte de gente mejor; aprender de ellos. 
+<lu>
+	<li>Guiar a gente de menor capacidad</li>
+	<li>Rodearte de pares</li>
+	<li>Rodearte de gente mejor; aprender de ellos. </li>
+</lu>
 
 La vida es una cinta transportadora, si te quedas quieto te caes
 
 La gente es como un hotel por las estrellas
+
 	1. Estrella, empleado
 	2. Estrella, gerente
 	3. Estrella, más que gerente
@@ -40,8 +37,10 @@ La gente es como un hotel por las estrellas
 Tenés que hacer deporte con lo que estás haciendo
 No solo ver cuando lo logres
 
-### Cada uno SUEÑA lo que quiere. El INCONSCIENTE no miente
+
+### [Cada uno SUEÑA lo que quiere. El INCONSCIENTE no miente](https://www.youtube.com/watch?v=NStw7bCfl_k&t=7s)
 Libro Brian
+
 	1. Los sueños direccionan tu vida
 	2. Soña grande
 	3. En el inconciente está tu vida
@@ -66,6 +65,7 @@ Libro Brian
 	22. Hábito, mínimas tareas en el largo plazo
 
 Pasos
+
 	1. Liberá la creatividad, dentro de lo insólito está lo que buscas
 	2. Relacionarse con la gente correcta. Con la gente de acuerdo a tus sueños
 	3. Cuidar tu salud y estado físico
@@ -76,7 +76,7 @@ Para que un sueño sea realidad, se debe transformar en necesidad
 
 Lo importante es, donde estás soñando, ahí está la dirección de tu vida
 
-### que hace el EXITOSO  que yo no HAGO.
+### [que hace el EXITOSO  que yo no HAGO](https://www.youtube.com/watch?v=xHOgSgURcdk)
 
 Gente que sabe lo que quiere
 
@@ -108,7 +108,7 @@ Presupuesto es plan de accion cuantificado
 Fe es la certeza de lo que se espera. La convicción de lo que no se ve.
 La fe es la firmeza para poner límites.
 
-### la amabilidad VENDE. comienza HOY .
+### [la amabilidad VENDE. comienza HOY](https://www.youtube.com/watch?v=l2ZpVfZTovk&ab_channel=AlbertoVignoni)
 
 La amabilidad vende
 En el lugar que te da plata, sé siempre amable
@@ -119,7 +119,7 @@ Empatia
 La gente no impacta por su plata, ingles, oficina
 La gente impacta porque sonríe 
 
-### 28 años. emigramos  a DINAMARCA .SUELDO 5.400 u$S. antes 1.050 u$S.
+### [28 años. emigramos  a DINAMARCA .SUELDO 5.400 u$S. antes 1.050 u$S](https://www.youtube.com/watch?v=t2690bKOhfA&ab_channel=AlbertoVignoni)
 
 Experiencia para vivir afuera
 Investigamos
@@ -135,7 +135,7 @@ Invirtieron en activos financieros, que le dan una renta mensual
 Alquilar una propiedad no es negocio
 Necesitas 30-40 años para recuperar la inversión
 
-### Los HÁBITOS hasta los 18 MARCAN la gran DIFERENCIA
+### [Los HÁBITOS hasta los 18 MARCAN la gran DIFERENCIA](https://www.youtube.com/watch?v=N5q_LXYaGhk&ab_channel=AlbertoVignoni)
 
 Actitud
 Forma de interpretar la vida
@@ -166,7 +166,7 @@ No cuesta nada ser amable
 Cuando te pagan con odio, devolvé amor
 Oratoria, practicar leer con un corcho
 
-### Para hacer un CAMBIO tenés que DESPERTAR
+### [Para hacer un CAMBIO tenés que DESPERTAR](https://www.youtube.com/watch?v=JmeGN7Pz0sc&ab_channel=AlbertoVignoni)
 
 Diseñar el futuro
 Yo actual, cumplo con las expectativas del entorno
@@ -194,11 +194,11 @@ Que es lo que está fallando
 Tratá de hacer lo que te gusta,
 Buscar el yo deseado
 
-### Mira el MUNDO a través de los OJOS de un NIÑO
+### [Mira el MUNDO a través de los OJOS de un NIÑO](https://www.youtube.com/watch?v=q5SKzE3j6kw&ab_channel=AlbertoVignoni)
 
 Libro el hábito de los genios
 
-### Jordan Peterson's Life Advice Will Change Your Future — Most Underrated Speech
+### [Jordan Peterson's Life Advice Will Change Your Future — Most Underrated Speech](https://www.youtube.com/watch?v=ne-TDvj3GUM&ab_channel=MotivationCore)
 
 You see the shinny outside, but you dont see the reality of their life
 Be carefull of what you are jelaus about, because you don´t know what it is
@@ -220,22 +220,22 @@ Pick a paht of discipline
 -It´s not gonna be perfect and It gonna be change along the way 
 It will change cause you gonna get discipline persuing the path, then wiser then able to formulate better plans
 
-### Si buscas PRODUCTIVIDAD estás buscando tu TALENTO
+### [Si buscas PRODUCTIVIDAD estás buscando tu TALENTO](https://www.youtube.com/watch?v=Z0Sp9hLU6EM&ab_channel=AlbertoVignoni)
 
-Explotar lo que sabés hacer mejor
-El dinero también tiene un corazon
-Los que no les importa el dinero están todo el tiempo trabajando
-El mercado no perdona a quienes no saben lo que hacen
-Cuando ponés un negocio, ponelo bien
-La mediocridad no construye fortuna
-Jugar para ganar, no para no perder
-El mundo no es escaso
-A mi nunca me pasó nada, porque nunca te arriesgaste por algo más grande
-Nuestra cultura compensa el sacrificio no la productividad, la persona que llega cansada le sirven, el que llega fresco no. No es valorado, encima es odiado y envidiado
+Explotar lo que sabés hacer mejor.
+El dinero también tiene un corazon.
+Los que no les importa el dinero están todo el tiempo trabajando.
+El mercado no perdona a quienes no saben lo que hacen.
+Cuando ponés un negocio, ponelo bien.
+La mediocridad no construye fortuna.
+Jugar para ganar, no para no perder.
+El mundo no es escaso.
+A mi nunca me pasó nada, porque nunca te arriesgaste por algo más grande.
+Nuestra cultura compensa el sacrificio no la productividad, la persona que llega cansada le sirven, el que llega fresco no. No es valorado, encima es odiado y envidiado.
 El deseo no genera cambios. Diferencia desear y comprometerse. Comprometerse genera productividad y resultados satisfactorios.
-Los deseos sin compromiso debilitan tu espiritu
+Los deseos sin compromiso debilitan tu espiritu.
 Solo puedes tener aquello por lo que sientes auténtica alegría al verlo en otras personas. 
-La envidia destruye todas las posibilidades de éxito
+La envidia destruye todas las posibilidades de éxito.
 
 Grandes dolores 
 	1. Falta de efectivo
@@ -262,9 +262,8 @@ Como delegar
 	Dólar oficial ARG$182
 	USD 440 al mes ganas neto
 	2,75USD/hora hoy 21/3/2022
-	
-	
-### Tenés que sentir el olor a la PLATITA
+		
+### [Tenés que sentir el olor a la PLATITA](https://www.youtube.com/watch?v=yNVgJOvFUu0&ab_channel=AlbertoVignoni)
 
 Busca donde está la plata
 Buscá donde está el cliente
@@ -278,25 +277,25 @@ Estudia la carrera, hablá bien, etc
 Acordate a que fiestas vas
 Cuando haces algo por placer, lo haces sin esfuerzo
 
-### no tengo LIBERTAD FINANCIERA. sobrevivo con mi SUELDO.
+### [no tengo LIBERTAD FINANCIERA. sobrevivo con mi SUELDO](https://www.youtube.com/watch?v=TDMNTnAP7ig&ab_channel=AlbertoVignoni)
 
 El inconciente no tiene sentido del humor
 Las palabras son muy importantes
 Las mujeres siguen el camino de su madre
 
-### MEMORIA!!!, LA LLAVE  para el ESTUDIO
+### [MEMORIA!!!, LA LLAVE  para el ESTUDIO](https://www.youtube.com/watch?v=kLzNtLQ8nx4&ab_channel=AlbertoVignoni)
 
 Hay carreras que necesitas si o si la memoria
 Ejemplo abogacia o medicina
 A cada número una palabra
 Ejercicio hasta 100
 
-### ¿Por qué Will Smith golpeó a Chris Rock? El motivo detrás del momento en los Oscars | Nico Bron
+### [¿Por qué Will Smith golpeó a Chris Rock?](https://www.youtube.com/watch?v=_QywV7aBbxI&ab_channel=FiloNews)
 
 
 At your highest moments be careful, that´s when the devil is coming for you
 
-### CONÓCETE a vos mismo. La AUTOIMAGEN y tu futuro
+### [CONÓCETE a vos mismo. La AUTOIMAGEN y tu futuro](https://www.youtube.com/watch?v=_uLLd523ui4&ab_channel=AlbertoVignoni)
 
 La autoimagen
 La imagen que tenés de vos mismo
@@ -317,7 +316,7 @@ No vayas con el perfil bajo
 
 Nada alimenta más el éxito que la experiencia de éxito
 
-###  [Link](https://www.youtube.com/watch?v=mfZ_zGJ1hHA&ab_channel=AlbertoVignoni/ "Titulo del video)
+[El EMPRENDEDOR debe QUEMAR las NAVES para tener ÉXITO en la empresa](https://www.youtube.com/watch?v=mfZ_zGJ1hHA&ab_channel=AlbertoVignoni)
 
 Tragedia de los andes<br>
 Al día 14 les dijeron que no los iban a buscar<br>
