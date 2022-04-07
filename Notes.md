@@ -41,30 +41,30 @@ No solo ver cuando lo logres
 ### [Cada uno SUEÑA lo que quiere. El INCONSCIENTE no miente](https://www.youtube.com/watch?v=NStw7bCfl_k&t=7s)
 Libro Brian
 
-	1. Los sueños direccionan tu vida
-	2. Soña grande
-	3. En el inconciente está tu vida
-	4. Tenés que buscar una buena idea que te dé guita
-	5. La gente deja de comer pero no deja de jugar
-	6. El ex presidente de boca vendió su auto para comprar un bingo
-	7. Conciderese como su propio empleado, todo lo que vaya haciendo hagalo bien, entrenandose para su futura empresa
-	8. Haga lo que verdaderamente ama hacer y quiere hacer
-	9. Ser el mejor en lo que hacer
-	10. Trabaja duro y disciplinado
-	11. Dediquese al aprendizaje toda su vida
-	12. Páguese usted primero
-	13. Aprenda cada dia el detalle de su negocio y aprenda a hacerlo mejor
-	14. Pensá en tu cliente todo el día 
-	15. Mucha comunicación, mucho carisma, ubicación, tacto
-	16. Honestidad es clave, es la base de los negocios,
-	17. Prioridades, una cosa a la vez
-	18. Persona rápida y digna
-	19. El producto tiene que estar ya, nunca alguien te puede pedir algo y que no lo tengas
-	20. Prepararse para ascender
-	21. Autodisciplina, poder mandarse a uno mismo. 
-	22. Hábito, mínimas tareas en el largo plazo
+Los sueños direccionan tu vida
+Soña grande
+En el inconciente está tu vida
+Tenés que buscar una buena idea que te dé guita
+La gente deja de comer pero no deja de jugar
+El ex presidente de boca vendió su auto para comprar un bingo
+Conciderese como su propio empleado, todo lo que vaya haciendo hagalo bien, entrenandose para su futura empresa
+Haga lo que verdaderamente ama hacer y quiere hacer
+Ser el mejor en lo que hacer
+Trabaja duro y disciplinado
+Dediquese al aprendizaje toda su vida
+Páguese usted primero
+Aprenda cada dia el detalle de su negocio y aprenda a hacerlo mejor
+Pensá en tu cliente todo el día 
+Mucha comunicación, mucho carisma, ubicación, tacto
+Honestidad es clave, es la base de los negocios,
+Prioridades, una cosa a la vez
+Persona rápida y digna
+El producto tiene que estar ya, nunca alguien te puede pedir algo y que no lo tengas
+Prepararse para ascender
+Autodisciplina, poder mandarse a uno mismo. 
+Hábito, mínimas tareas en el largo plazo
 
-Pasos
+<u>Pasos</u>
 
 	1. Liberá la creatividad, dentro de lo insólito está lo que buscas
 	2. Relacionarse con la gente correcta. Con la gente de acuerdo a tus sueños
