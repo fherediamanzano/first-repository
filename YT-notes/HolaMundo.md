@@ -38,18 +38,27 @@ No ser impulsivo
 Colabora en proyectos
 
 ## [Cosas que debes hacer para mejorar tu sueldo absurdamente.](https://www.youtube.com/watch?v=i4bx-u1n7P0&ab_channel=HolaMundo)
-1. Convertirte en un desarrollador de Software
-Esto permite comprender al cliente
-Aprender Python
-2. Aprender ingles
-Practicar
-Leer en vos alta
-Como? Hacer todo en inglés
-La unica forma de dominar un tema, es acondicionarte a ello
-3. Migrar a US
-Ó Nueva Zelanda
-Para migrar necesitas experiencia
-Que no te lo cuenten, vivelo
-4. Nunca dejes de invertir en ti
-No solo es plata
-Aumentar tu valor como profesional
+1. Convertirte en un desarrollador de Software.
+Esto permite comprender al cliente.
+Aprender Python.
+2. Aprender ingles.
+Practicar.
+Leer en vos alta.
+Como? Hacer todo en inglés.
+La unica forma de dominar un tema, es acondicionarte a ello.
+3. Migrar a US.
+Ó Nueva Zelanda.
+Para migrar necesitas experiencia.
+Que no te lo cuenten, vivelo.
+4. Nunca dejes de invertir en ti.
+No solo es plata.
+Aumentar tu valor como profesional.
+
+## [Entrevista con HolaMundo](https://www.youtube.com/watch?v=auLEcwMqyr0&ab_channel=midudev)
+1.	Cuando se es senior?<br>
+No hay objetividad en el criterio.
+Lo determina la empresa. Un criterio puede ser:
+*	Trabajar de forma independiente, sin necesidad de supervisión. 
+*	También capacitar a otros en el trabajo. <br>
+Eso puede ser un criterio. Consolidar la experiencia en aprendizaje.
+2.	Programar diariamente. No solo la experiencia laboral. Desarrollar un porfoliio
